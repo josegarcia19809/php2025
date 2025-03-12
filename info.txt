@@ -1,0 +1,45 @@
+Del curso: Desarrollo Web Completo con HTML5, CSS3, JS AJAX PHP y MySQL
+Juan Pablo De la torre Valdez
+
+Inicio: Miércoles 12 de marzo 2025
+
+PHP - Sintaxis y Funciones: Hola Mundo en PHP
+
+Variables y Constantes en PHP
+06:00
+Tipos de Dato en PHP
+03:05
+Números y Operadores en PHP
+02:35
+Comparadores en PHP
+04:04
+Incrementos en PHP
+02:38
+Funciones para Strings en PHP
+10:16
+Arreglos y Funciones para Arreglos en PHP
+07:15
+Arreglos asociativos o Associative Arrays en PHP
+05:26
+isset() y empty()
+04:57
+Revisar si un elemento existe en un array y otros métodos
+06:31
+if, else if y switch
+10:21
+for loops
+10:44
+while, do while y foreach
+10:33
+foreach y mostrar el contenido de un array
+08:10
+Funciones en PHP
+07:25
+Funciones que retornan valores
+05:46
+Named Parameters en PHP
+02:18
+Include y require
+07:44
+json_encode y json_decode
+
