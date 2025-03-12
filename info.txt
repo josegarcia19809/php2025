@@ -3,10 +3,8 @@ Juan Pablo De la torre Valdez
 
 Inicio: Miércoles 12 de marzo 2025
 
-PHP - Sintaxis y Funciones: Hola Mundo en PHP
+PHP - Sintaxis y Funciones: Variables y Constantes en PHP
 
-Variables y Constantes en PHP
-06:00
 Tipos de Dato en PHP
 03:05
 Números y Operadores en PHP
