@@ -1,15 +1,13 @@
-<?php include 'includes/header.php';
+<?php
+declare(strict_types=1); // Activa el modo estricto
 
 $nombre = "José";
 
 echo $nombre;
-echo '<br>';
+echo "\n";
 
 var_dump($nombre);
-echo '<br>';
+echo "\n";
 
 const precio = 2000;
 echo precio;
-
-
-include 'includes/footer.php';

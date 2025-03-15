@@ -1,14 +1,9 @@
-<?php include 'includes/header.php';
+<?php
 
-echo "<h1>Hola mundo, bienvenido a PHP</h1>";
+echo "Hola mundo, bienvenido a PHP\n";
 var_dump("Bienvenido");
-echo "<br>";
 var_dump(20);
 
-echo "<br>";
 echo "php -S localhost:3000";
-echo "<br>";
+echo "\n";
 echo "http://localhost:3000/01-hola-mundo.php";
-
-
-include 'includes/footer.php';
