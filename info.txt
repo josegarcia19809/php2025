@@ -3,14 +3,8 @@ Juan Pablo De la torre Valdez
 
 Inicio: Miércoles 12 de marzo 2025
 
-PHP - Sintaxis y Funciones: Tipos de Dato en PHP y actualizando a la consola
+PHP - Sintaxis y Funciones: Operadores y Comparadores
 
-
-03:05
-Números y Operadores en PHP
-02:35
-Comparadores en PHP
-04:04
 Incrementos en PHP
 02:38
 Funciones para Strings en PHP
