@@ -3,12 +3,8 @@ Juan Pablo De la torre Valdez
 
 Inicio: Miércoles 12 de marzo 2025
 
-PHP - Sintaxis y Funciones: Arreglos y Funciones para Arreglos en PHP
+PHP - Sintaxis y Funciones: Arreglos asociativos o Associative Arrays
 
-
-07:15
-Arreglos asociativos o Associative Arrays en PHP
-05:26
 isset() y empty()
 04:57
 Revisar si un elemento existe en un array y otros métodos
