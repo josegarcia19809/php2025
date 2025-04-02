@@ -3,12 +3,8 @@ Juan Pablo De la torre Valdez
 
 Inicio: Miércoles 12 de marzo 2025
 
-PHP - Sintaxis y Funciones: isset() y empty()
+PHP - Sintaxis y Funciones: Revisar si un elemento existe en un array y otros métodos
 
-
-04:57
-Revisar si un elemento existe en un array y otros métodos
-06:31
 if, else if y switch
 10:21
 for loops
