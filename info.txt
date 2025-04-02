@@ -3,9 +3,9 @@ Juan Pablo De la torre Valdez
 
 Inicio: Miércoles 12 de marzo 2025
 
-PHP - Sintaxis y Funciones: Arreglos asociativos o Associative Arrays
+PHP - Sintaxis y Funciones: isset() y empty()
 
-isset() y empty()
+
 04:57
 Revisar si un elemento existe en un array y otros métodos
 06:31
