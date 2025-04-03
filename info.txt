@@ -3,9 +3,9 @@ Juan Pablo De la torre Valdez
 
 Inicio: Miércoles 12 de marzo 2025
 
-PHP - Sintaxis y Funciones: Revisar si un elemento existe en un array y otros métodos
+PHP - Sintaxis y Funciones: if, else if y switch
 
-if, else if y switch
+
 10:21
 for loops
 10:44
