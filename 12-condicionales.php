@@ -67,3 +67,21 @@ echo match ($tecnologia) {
     "Swift" => "Swift, un excelente lenguaje",
     default => "Algún lenguaje",
 };
+
+imprimirLinea();
+$numero = 5;      // Entero
+$texto = "5";     // Cadena
+
+// Comparación con ==
+if ($numero == $texto) {
+    echo "Son iguales con ==";  // Se imprime porque PHP convierte el string a número
+} else {
+    echo "No son iguales con ==";
+}
+imprimirLinea();
+// Comparación con ===
+if ($numero === $texto) {
+    echo "Son iguales con ===";
+} else {
+    echo "No son iguales con ==="; // Se imprime porque 5 (int) no es igual a "5" (string)
+}
