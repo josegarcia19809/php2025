@@ -3,8 +3,8 @@ Juan Pablo De la torre Valdez
 
 Inicio: Miércoles 12 de marzo 2025
 
-PHP - Sintaxis y Funciones: Named Parameters en PHP
+PHP - Sintaxis y Funciones: Include y require
 
-Include y require
+
 json_encode y json_decode
 
