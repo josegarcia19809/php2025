@@ -3,8 +3,8 @@ Juan Pablo De la torre Valdez
 
 Inicio: Miércoles 12 de marzo 2025
 
-PHP - Sintaxis y Funciones: Include y require
+PHP - Sintaxis y Funciones: json_encode y json_decode
 
 
-json_encode y json_decode
+
 
