@@ -3,12 +3,8 @@ Juan Pablo De la torre Valdez
 
 Inicio: Miércoles 12 de marzo 2025
 
-PHP - Sintaxis y Funciones: foreach y mostrar el contenido de un array
+PHP - Sintaxis y Funciones: Funciones en PHP
 
-Funciones en PHP
-07:25
-Funciones que retornan valores
-05:46
 Named Parameters en PHP
 02:18
 Include y require
