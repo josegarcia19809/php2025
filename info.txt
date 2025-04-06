@@ -3,15 +3,8 @@ Juan Pablo De la torre Valdez
 
 Inicio: Miércoles 12 de marzo 2025
 
-PHP - Sintaxis y Funciones: for loops, while, do while
+PHP - Sintaxis y Funciones: foreach y mostrar el contenido de un array
 
-
-10:21
-
-foreach
-10:33
-foreach y mostrar el contenido de un array
-08:10
 Funciones en PHP
 07:25
 Funciones que retornan valores
