@@ -34,3 +34,13 @@ function esMayorDeEdad(int $edad): bool
 
 echo "Es mayor de edad: " . (esMayorDeEdad(20) ? "Verdadero" : "Falso") . "\n";
 echo "Es mayor de edad: " . (esMayorDeEdad(15) ? "Verdadero" : "Falso") . "\n";
+imprimirLinea();
+
+function crearUsuario(string $nombre, int $edad, string $pais = "México"): void
+{
+    echo "Nombre: $nombre\n";
+    echo "Edad: $edad\n";
+    echo "País: $pais\n";
+}
+
+crearUsuario(edad: 30, nombre: "Carlos", pais: "Perú");
